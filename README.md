@@ -179,3 +179,6 @@ TrollInstallerX doesn’t support iOS 17.0 as there are currently no public expl
 - **TrollsMe Developer Team**: A collective thank you to the entire TrollsMe Developer Team for their combined efforts and contributions.
 - **DTCalabro and JJTech**: Recognized for their improvements to the logging system, enhancing the project's functionality.
 - **MasterMike88**: Appreciated for their help in testing and debugging during development, ensuring the project's stability and reliability.
+
+- *Note: This installation guide is provided for educational purposes only.*
+  
