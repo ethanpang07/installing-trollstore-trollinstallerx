@@ -118,6 +118,8 @@ Both methods allow the installation of a persistence helper into a removable sys
 
 TrollInstallerX is a powerful tool that makes the installation of TrollStore a seamless process, regardless of the device or iOS version. Its versatility and efficiency make it an essential tool for all TrollStore users.
 
+[![Download TrollInstallerX IPA](https://github.com/iOSGuide/installing-trollstore-trollinstallerx/blob/main/Assets/Install%20TrollStore%202%20using%20TrollInstallerX%20on%20All%20Devices.webp)](https://iospack.com/apps/trollsme-trollstore/)
+
 ## How to Use TrollInstallerX
 
 TrollInstallerX is a user-friendly universal TrollStore installer known for its speed, reliability, and simplicity. Here’s a step-by-step guide on how to use it:
